@@ -3,7 +3,6 @@
     Ref: https://github.com/MWiechmann/enron_spam_data/
 '''
 
-
 import requests
 import shutil
 import os
